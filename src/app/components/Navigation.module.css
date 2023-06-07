@@ -1,0 +1,20 @@
+.header{
+    border: 2px solid #ffff;
+    height: 70px;
+    border-radius: 10px;
+    padding: 0px 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.navigation{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+.navigation a:hover{
+    color: yellow;
+    font-weight: 900;
+}
