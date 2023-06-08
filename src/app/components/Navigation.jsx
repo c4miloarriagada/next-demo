@@ -14,5 +14,5 @@ export const Navigation = ({ links }) => {
         </ul>
       </nav>
     </header>
-  );
-};
+  )
+}
